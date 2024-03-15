@@ -1,0 +1,27 @@
+name: Production Deploy
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  hugo:
+    runs-on: ubuntu-latest
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v4
+      -
+        name: Run Hugo
+        uses: crazy-max/ghaction-hugo@v3
+        with:
+          version: latest
+          extended: true
+          args: --cleanDestinationDir --minify --verbose
+      -
+        name: Deploy to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: pensiveibex.com
+          username: luk@pensiveibex.com
+          password: ${{ secrets.ftp_password }}

@@ -25,3 +25,5 @@ jobs:
           server: pensiveibex.com
           username: luk@pensiveibex.com
           password: ${{ secrets.ftp_password }}
+          local-dir: ./public/
+          server-dir: public-html/

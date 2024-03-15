@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <main aria-role="main">
+    <header class="center title">
+        <h1 class="title">{{ .Site.Title }}</h1>
+        <img style="max-width: 20rem;" src="/img/pensive-ibex-logo.png" />
+    </header>
+    <h2>Latest</h2>
+    {{ range where .Site.RegularPages "Section" "eq" "blog" | first 5 }}
+    <div class="row">
+        <div class="column-25">
+            <i>{{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}</i>
+        </div>
+        <div class="column-75">
+            <a class="articlelink" href="{{ .Permalink }}">{{ .Title }}</a>
+        </div>
+    </div>
+    {{ end }}
+  </main>
+{{ end }}

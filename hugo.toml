@@ -1,0 +1,6 @@
+baseURL = 'https://pensiveibex.com/'
+languageCode = 'en-uk'
+title = 'Pensive Ibex'
+sectionPagesMenu = 'main'
+pluralizelisttitles = 'false'
+theme = 'hugo-bearcub'

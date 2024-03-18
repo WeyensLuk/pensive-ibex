@@ -39,6 +39,10 @@ footer {
   text-align: center;
 }
 
+table tr th:empty {
+  display: none;
+}
+
 h1,
 h2,
 h3,
@@ -88,7 +92,6 @@ a:hover {
 
 img[src$='#floatright'] {
   border-radius: 25px;
-	max-width: 30%;
 	height: auto;
 	float: right;
   margin-left: 1rem;

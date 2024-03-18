@@ -12,9 +12,11 @@
   {{ end }}
   <content>
     {{ .Content }}
-  </content>
 
-  {{- partial "contactme.html" . -}}
+    {{ if .Section | eq "blog" }}
+      {{- partial "contactme.html" . -}}
+    {{ end }}
+  </content>
   <p>
     {{ range (.GetTerms "tags") }}
       <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>

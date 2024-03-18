@@ -13,6 +13,8 @@
   <content>
     {{ .Content }}
   </content>
+
+  {{- partial "contactme.html" . -}}
   <p>
     {{ range (.GetTerms "tags") }}
       <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>

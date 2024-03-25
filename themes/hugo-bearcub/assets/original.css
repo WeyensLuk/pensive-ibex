@@ -98,6 +98,11 @@ img[src$='#floatright'] {
   margin-left: 1rem;
 }
 
+img[src$='#center'] {
+	margin: auto;
+  display: block;
+}
+
 .homepage-content {
   margin-top: 5rem;
 }

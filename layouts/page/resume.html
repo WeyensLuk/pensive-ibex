@@ -1,0 +1,4 @@
+{{ $syntax := resources.Get "resume.css" | minify }}
+<link href="{{ $syntax.RelPermalink }}" rel="stylesheet">
+
+{{ .Content }}

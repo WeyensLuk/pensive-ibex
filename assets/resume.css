@@ -1,0 +1,83 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: #12372A;
+    color: #FBFADA;
+    margin: 4rem;
+    text-align: justify;
+}
+
+img.profile-picture {
+    border-radius: 25px;
+    max-height: 35%;
+    float: left;
+    margin-right: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 40rem) {
+    img.profile-picture {
+        max-height: 15%;
+    }
+}
+
+h1 {
+    color: #ADBC9F;
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+h3:before, h3:after {
+    display: block;
+    top: 51%;
+    flex: 1;
+    height: 2px;
+    content: '';
+    background-color: #436850;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+a {
+    color: #ADBC9F;
+}
+
+div.clear {
+    clear: both;
+}
+
+.row {
+    display: flex;
+    margin-top: 3rem;
+}
+
+.col-25 {
+    flex: 25%;
+    font-style: italic;
+}
+
+.col-75 {
+    flex: 75%;
+}
+
+p.experience {
+    margin-bottom: 0.2rem;    
+}
+
+div.technologies {
+    color: #ADBC9F;
+    font-size: 0.9rem;
+}
+
+div.technologies::before {
+    content: "⚙️";
+}

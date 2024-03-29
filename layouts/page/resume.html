@@ -5,6 +5,7 @@
 
     {{ $syntax := resources.Get "resume.css" | minify }}
     <link href="{{ $syntax.RelPermalink }}" rel="stylesheet">
+
     <title>{{ .Title }}</title>
 </head>
 
@@ -12,4 +13,6 @@
     {{ .Content }}
 </body>
 
+{{ $syntax := resources.Get "resume.js" | minify }}
+<script src="{{ $syntax.RelPermalink }}"></script>
 </html>

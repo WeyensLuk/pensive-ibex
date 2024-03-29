@@ -3,7 +3,6 @@ body {
     background-color: #12372A;
     color: #FBFADA;
     margin: 4rem;
-    text-align: justify;
 }
 
 img.profile-picture {
@@ -16,7 +15,12 @@ img.profile-picture {
 
 @media only screen and (max-width: 40rem) {
     img.profile-picture {
-        max-height: 15%;
+        max-height: 40%;
+        float: none;
+    }
+
+    h2 {
+        font-size: 1.4rem;
     }
 }
 
@@ -69,6 +73,12 @@ div.clear {
     flex: 75%;
 }
 
+@media only screen and (max-width: 40rem) {
+    .row {
+        display: block;
+    }
+}
+
 p.experience {
     margin-bottom: 0.2rem;    
 }
@@ -79,5 +89,6 @@ div.technologies {
 }
 
 div.technologies::before {
-    content: "⚙️";
+    content: "\02699";
+    font-family: "segoe ui emoji", "noto emoji";
 }

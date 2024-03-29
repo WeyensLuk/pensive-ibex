@@ -6,7 +6,7 @@ class TextScramble {
     }
 
     setText(newText) {
-      const oldText = this.el.innerHTML;
+      const oldText = this.el.innerText;
       const length = Math.max(oldText.length, newText.length);
       this.queue = [];
       for (let i = 0; i < length; i++) {
@@ -34,14 +34,13 @@ class TextScramble {
             char = this.randomChar();
             this.queue[i].char = char;
           }
-          output += `<span class="dud">${char}</span>`;
+          output += char;
         } else {
           output += from;
         }
       }
-      this.el.innerHTML = output;
+      this.el.innerText = output;
       if (complete === this.queue.length) {
-        this.el.innerText = output;
         this.resolve();
       } else {
         this.frameRequest = requestAnimationFrame(this.update);

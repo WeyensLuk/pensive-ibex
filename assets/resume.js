@@ -77,10 +77,6 @@ function atbash(text) {
     });
 }
 
-function plaintext(text) {
-  return window[this.method](text);
-}
-
 function containsOnlyText(el) {
     for (let i = 0; i < el.childNodes.length; i++) {
         const node = el.childNodes[i];

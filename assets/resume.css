@@ -2,7 +2,23 @@ body {
     font-family: Verdana, sans-serif;
     background-color: #12372A;
     color: #FBFADA;
-    margin: 4rem;
+    margin: 2rem 4rem 4rem 4rem;
+}
+
+.encrypt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+
+    span {
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+
+    span:hover{
+        cursor: pointer;
+    }
 }
 
 img.profile-picture {
@@ -91,4 +107,8 @@ div.technologies {
 div.technologies::before {
     content: "\02699";
     font-family: "segoe ui emoji", "noto emoji";
+}
+
+.dud {
+    color: #757575;
 }

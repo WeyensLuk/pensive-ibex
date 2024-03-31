@@ -2,7 +2,6 @@
 title = 'Risks of GenAI'
 date = 2024-03-31
 tags = ['coding', 'artificial intelligence']
-draft = true
 +++
 
 I've been using [Github Copilot](https://github.com/features/copilot) for a couple of months now. It was an experiment in our company to test its use and see what benefits it might provide to developers. I have to say I was blown away when I saw what it could do. I was happily writing some tests in our code base, calling Builder objects to create the necessary setup data. Out of nowhere I get this suggestion of Copilot for the rest of the code for the Builder call. Sure it wasn't exactly what I needed, I still had to make a few changes and tweaks, but it blew my socks off. At one press of a button I get several lines of code which approximately is what I need at that time. Oh, did I also mention that our codebase is written in **Dutch**? 

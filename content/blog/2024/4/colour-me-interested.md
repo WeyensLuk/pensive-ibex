@@ -8,6 +8,6 @@ tags = ['puzzle']
 
 That's it. That's all you get.
 
-If you think you've found the solution. You can mail it to by following the link at the bottom of the page.
+If you think you've found the solution. You can mail it to me by following the link at the bottom of the page.
 
 Good luck!

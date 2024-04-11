@@ -1,0 +1,35 @@
++++
+title = 'There\'s an AI for that'
+date = 2024-04-11
+tags = ['artificial intelligence']
++++
+
+About a year and a half ago ChatGPT 3.5 was let loose, and it took the world by storm. Since then we've seen tremendous improvements in performance and reliability with ChatGPT 4. Not only that, but all other Generative AI tools have made major leaps. I remember way back when Dall-E 2 was released, I tried to create some images, some worked but others flopped. You really had to know what language to speak to the AI in order for it to do what you wanted. That's about the time that **"Prompt Engineering"** suddenly became a skill you should have. I never understood that trend. To me, it always just meant that GenAI just wasn't there yet. 
+
+And sure enough, look at Dall-E 3 now. I barely have to edit my prompts, I just regenerate the same prompt until I'm satisfied with my creation. Prompt Engineering might still be a thing, but it is no longer needed to create the content you want. 
+
+The other trend, that's still going on, is the use of AI for anything and everything. Everybody suddenly wants to integrate AI in everything they're doing. And demand, in this case, has created supply. Much like the **dot-com bubble** of the late-90's, we have now entered the **AI bubble**. Just about every day a new AI tool pops out of the ground, dare I say even faster than development of new Javascript frameworks. 
+
+I'm sure many of these tools (and companies/startups behind them) will go belly-up in the coming years. However, right now, it's an exciting time to live in. I love watching how the landscape evolves. The possibilities are tremendous, but the ethical implications are equally significant. When ChatGPT first became mainstream, it meant a great deal of hurt to institutions like universities and schools. Suddenly being confronted with this tool, that seemingly could generate all the homework of students.
+
+As a teacher, myself, I experienced this first-hand. Students only took half the time to complete the exercises I had set up, using AI to generate the answers for them. While I'm not completely against using AI as a **tutor** (in a sense it is no different to Googling if source citation is enabled), using it as a monkey to do your work for you is not instructive. 
+
+As a tutor, AI can provide reasoning and explanation in a different tone, or from a different viewpoint to help you better understand something. With the obvious caveat that GenAI is extremely bad at admitting it doesn't know something, and will convincingly provide false answers to any question. So always check your sources. Use AI as a springboard to find connections and start your search for knowledge. It's good at summarizing, it's good at providing many different resources. Know its strengths and its weaknesses and use it accordingly.
+
+Even though I'm excited for the future of AI, I'm also horrified. There are definite ethical points that need addressing. There are implications and implementations that the world just isn't ready for. *Suppose*, that a leap in robotics is made similar to the leap in AI of the last couple of years. If you could combine the two, manual labour could be reliably replaced with robots. That might spell the start of economic collapse. Workers get replaced by robots, because they're cheaper. So if companies purchase robots to do manual labour, and workers get laid off and fall on unemployment, then how will they be able to pay for the services that those companies provide? And if those companies no longer receive income, how can they still purchase the raw resources for the products they fabricate? 
+
+There's a famous saying that comes to mind, first uttered (or should I say encoded?) as the first message telegraphed in Morse. **"What Hath God Wrought?"** Since then, the message has been repeated time and again, whenever mankind has made another leap in information communication. It seems awfully apt describing the current state of affairs of GenAI and its future if the ethical aspect keeps getting swept under the rug.
+
+However I'm no expert. These are no more than musings of how a world could look. I'm sure that people are looking into this. But should a robotics market push for a rush-to-market strategy as OpenAI has done with ChatGPT (and the consequences be damned), then I'm not sure we're working towards a better world.
+
+I didn't mean for this post to take such a turn. So, in order to end on a more positive note, I curated a list of AI tools that I either use frequently or found interesting. All of them are free to use (although some require registration in order to use).
+
+* [Phind](https://www.phind.com/) is a tool for programmers. I generally use it for the same thing that's promoted as the bots placeholder text, *"Ask anything. What are you stuck on?"*
+* [Perplexity](https://www.perplexity.ai/) a great tool for fact-based questions. For any and all questions that require an answer you don't know, such as *"Why does my nose tingle when I eat wasabi?"*. The bot provides links to sources (both text and video).
+* [Consensus](https://consensus.app/) I used to browse through [Google Scholar](https://scholar.google.com/) when I needed answers based on scientific papers, now I just ask the same question to Consensus. Like the above tools it's the same kind of RAG (Retrieval-Augmented Generation) implementation, but this time trained for scientific papers.
+* [Pi](https://pi.ai/) I'm genuinely impressed with this one. It's an AI bot that is emotionally intelligent. I talked to it about my day and it gave some good advice. It's no replacement for a mental health professional, but it is an easy remedy to create perspective when you're stuck.
+* [MusicGen](https://replicate.com/meta/musicgen) I don't use this one frequently. I'm just interested at what it can do. I like experimenting with it and mixing different genres and listening to the output.
+* [ChatPDF](https://www.chatpdf.com/) Got a manual lying around in PDF form and can't find what you're looking for? Upload it and just start chatting to get the info you need. Haven't tried this one extensively. But it looks promising.
+* [Adobe Podcast AI](https://podcast.adobe.com/enhance) Clean up background noise from your input audio. It's impressive what it can do. I haven't had the need to use this one yet, but I have heard others speak fondly of it.
+* [RoomGPT](https://www.roomgpt.io/) Provide it with an image of your room and it can transform it in different styles. I'm moving house soon, and will definitely use this to help me design my new home.
+* [GNOD](https://www.gnod.com/) At first sight, this doesn't really provide anything new. A music/literature/movie-map to discover similar content to the one you have entered (last.fm already did this 20 years ago, based on user content). What did impress me was GNOD Products. Filtering through several products based on several different inputs is a great way to view the product landscape (although it boggles the mind what this has to do with AI).

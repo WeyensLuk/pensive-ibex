@@ -1,5 +1,5 @@
 +++
-title = 'There\'s an AI for that'
+title = "There's an AI for that"
 date = 2024-04-11
 tags = ['artificial intelligence']
 +++

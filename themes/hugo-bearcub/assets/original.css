@@ -257,3 +257,12 @@ figcaption > p {
   font-style: italic;
   color: #ccc;
 }
+
+.inline-spoiler {
+  transition: color 0.7s ease, background-color 0.7s ease;
+}
+
+.inline-spoiler:not(:hover) {
+  color: black;
+  background: black;
+}

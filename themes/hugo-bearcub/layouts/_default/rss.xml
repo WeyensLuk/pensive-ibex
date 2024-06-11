@@ -68,8 +68,10 @@
       <content:encoded>
         {{ `<![CDATA[` | safeHTML }}{{ .Content | safeHTML }}{{ `]]>` | safeHTML }}
         <p>
-          <a href="mailto:{{ .Site.Author.Email }}?subject=Reply to {{ .Title }}">Reply to this post by email</a><br />
-          Did you spot a mistake? You can help me fix it by opening a <a href="{{ .Site.Author.github }}" target="_blank">Pull Request</a>.
+          <em>
+            <a href="mailto:{{ .Site.Author.Email }}?subject=Reply to {{ .Title }}">Reply to this post by email</a><br />
+            Did you spot a mistake? You can help me fix it by opening a <a href="{{ .Site.Author.github }}" target="_blank">Pull Request</a>.
+          </em>
         </p>
       </content:encoded>
     </item>

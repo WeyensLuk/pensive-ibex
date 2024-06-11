@@ -14,7 +14,8 @@
     {{ .Content }}
 
     {{ if .Section | eq "blog" }}
-      {{- partial "contactme.html" . -}}
+      {{- partial "contactme.html" . -}}<br />
+      Did you spot a mistake? You can help me fix it by opening a <a href="{{ .Site.Author.github }}" target="_blank">Pull Request</a>.
     {{ end }}
   </content>
   <p>

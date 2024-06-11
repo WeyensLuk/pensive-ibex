@@ -4,3 +4,8 @@ title = 'Pensive Ibex'
 sectionPagesMenu = 'main'
 pluralizelisttitles = 'false'
 theme = 'hugo-bearcub'
+
+[Author]
+    name = 'Luk Weyens'
+    email = 'luk@pensiveibex.com'
+    github = 'https://github.com/WeyensLuk/pensive-ibex'

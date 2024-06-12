@@ -1,6 +1,6 @@
 +++
 title = 'On finishing Monkey Island'
-date = 2024-06-14
+date = 2024-06-19
 tags = ['gaming', 'psychology']
 +++
 

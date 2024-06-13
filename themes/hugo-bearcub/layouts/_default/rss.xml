@@ -64,16 +64,16 @@
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Summary | transform.XMLEscape | safeHTML }}</description>
-      <content:encoded>
-        {{ `<![CDATA[` | safeHTML }}{{ .Content | safeHTML }}{{ `]]>` | safeHTML }}
+      <description>
+        {{ `<![CDATA[` | safeHTML }}{{ .Content | safeHTML }}
         <p>
           <em>
-            <a href="mailto:{{ .Site.Author.Email }}?subject=Reply to {{ .Title }}">Reply to this post by email</a><br />
+            <a href="mailto:{{ .Site.Author.email }}?subject=Reply to {{ .Title }}">Reply to this post by email</a><br />
             Did you spot a mistake? You can help me fix it by opening a <a href="{{ .Site.Author.github }}" target="_blank">Pull Request</a>.
           </em>
         </p>
-      </content:encoded>
+        ]]>
+      </description>
     </item>
     {{- end }}
   </channel>

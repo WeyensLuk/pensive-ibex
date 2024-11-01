@@ -16,7 +16,7 @@
     {{ if .Section | eq "blog" }}
       <em>
         {{- partial "contactme.html" . -}}<br />
-        Did you spot a mistake? You can help me fix it by opening a <a href="{{ .Site.Author.github }}" target="_blank">Pull Request</a>.
+        Did you spot a mistake? You can help me fix it by opening a <a href="{{ .Site.Params.Author.github }}" target="_blank">Pull Request</a>.
       </em>
     {{ end }}
   </content>

@@ -1,5 +1,5 @@
 {{/* Get address, protocol and other parameters */}}
-{{- $address := .Site.Author.email -}}
+{{- $address := .Site.Params.Author.email -}}
 {{- $protocol := "mailto" -}}
 {{- $displaytext := "Reply to this post by email" -}}
 {{- $parts := split $address "@" -}}

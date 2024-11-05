@@ -1,0 +1,1355 @@
+[
+    {
+        "city": {
+            "name": "Brasschaat",
+            "lat": 51.289970,
+            "lng": 4.491620
+        },
+        "otherCity": {
+            "name": "Tarija, Bolivia",
+            "lat": -21.88567,
+            "lng": -63.971668
+        },
+        "url": "https://www.brasschaat.be/vrijetijd/stedenband-tarija",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Brasschaat",
+            "lat": 51.289970,
+            "lng": 4.491620
+        },
+        "otherCity": {
+            "name": "Neuenahr-Ahrweiler, Germany",
+            "lat": 50.5448624,
+            "lng": 7.1377303
+        },
+        "url": "https://www.brasschaat.be/verbroedering",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Melle",
+            "lat": 51.00303,
+            "lng": 3.7988833
+        },
+        "otherCity": {
+            "name": "Melle, France",
+            "lat": 46.23181635,
+            "lng": -0.1395367196316273
+        },
+        "url": "https://www.melle.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Melle",
+            "lat": 51.00303,
+            "lng": 3.7988833
+        },
+        "otherCity": {
+            "name": "Melle, Germany",
+            "lat": 52.200762,
+            "lng": 8.338667
+        },
+        "url": "https://www.melle.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Audruicq, France",
+            "lat": 50.880871,
+            "lng": 2.08383
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Guemps, France",
+            "lat": 50.918449,
+            "lng": 1.99624
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Muncq-Nieurlet, France",
+            "lat": 50.843151,
+            "lng": 2.12038
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Nortkerque, France",
+            "lat": 50.87727,
+            "lng": 2.03342
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Nouvelle-Église, France",
+            "lat": 50.931492,
+            "lng": 2.04455
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Offekerque, France",
+            "lat": 50.926189,
+            "lng": 2.02401
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Oye-Plage, France",
+            "lat": 51.003078,
+            "lng": 2.06204
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Polincove, France",
+            "lat": 50.864922,
+            "lng": 2.11623
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Recques-sur-Hem, France",
+            "lat": 50.835629,
+            "lng": 2.07695
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Ruminghem, France",
+            "lat": 50.856098,
+            "lng": 2.16893
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Saint-Folquin, France",
+            "lat": 50.936661,
+            "lng": 2.13159
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Saint-Omer-Capelle, France",
+            "lat": 50.939751,
+            "lng": 2.09821
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Sainte-Marie-Kerque, France",
+            "lat": 50.90126,
+            "lng": 2.14919
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Vieille-Église, France",
+            "lat": 50.935902,
+            "lng": 2.07191
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Lichtervelde",
+            "lat": 51.030331,
+            "lng": 3.14227
+        },
+        "otherCity": {
+            "name": "Zutkerque, France",
+            "lat": 50.853691,
+            "lng": 2.05185
+        },
+        "url": "https://www.lichtervelde.be/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Herentals",
+            "lat": 51.185551,
+            "lng": 4.83464
+        },
+        "otherCity": {
+            "name": "Ijsselstein, Netherlands",
+            "lat": 52.026211,
+            "lng": 5.02869
+        },
+        "url": "https://www.herentals.be/nieuws/atletiekclubs-uit-herentals-en-jumelagegemeente-ijsselstein-ontmoeten-elkaar",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Heist-op-den-Berg",
+            "lat": 51.062519,
+            "lng": 4.71943
+        },
+        "otherCity": {
+            "name": "Bergrivier, South Africa",
+            "lat": -32.811111,
+            "lng": 18.584999
+        },
+        "url": "https://www.heist-op-den-berg.be/stedenband-met-bergrivier",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Essen",
+            "lat": 51.448818,
+            "lng": 4.44414
+        },
+        "otherCity": {
+            "name": "Witzenberg, South Africa",
+            "lat": -32.903831,
+            "lng": 19.77002
+        },
+        "url": "https://www.essen.be/gemeente-bestuur/internationale-samenwerking/stedenband-witzenberg",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Essen",
+            "lat": 51.448818,
+            "lng": 4.44414
+        },
+        "otherCity": {
+            "name": "Essen-Oldenburg, Germany",
+            "lat": 52.723179,
+            "lng": 7.96689
+        },
+        "url": "https://www.essen.be/gemeente-bestuur/internationale-samenwerking/zustergemeenten-en-jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Essen",
+            "lat": 51.448818,
+            "lng": 4.44414
+        },
+        "otherCity": {
+            "name": "Hardištko, Czechia",
+            "lat": 49.866348,
+            "lng": 14.42752
+        },
+        "url": "https://www.essen.be/gemeente-bestuur/internationale-samenwerking/zustergemeenten-en-jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Essen",
+            "lat": 51.448818,
+            "lng": 4.44414
+        },
+        "otherCity": {
+            "name": "Žilina, Slovakia",
+            "lat": 49.220558,
+            "lng": 18.726049
+        },
+        "url": "https://www.essen.be/gemeente-bestuur/internationale-samenwerking/zustergemeenten-en-jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Genk",
+            "lat": 50.966759,
+            "lng": 5.48298
+        },
+        "otherCity": {
+            "name": "Francistown, Botswana",
+            "lat": -21.166361,
+            "lng": 27.50251
+        },
+        "url": "https://www.genk.be/stedenbanden-en-peterschappen",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Genk",
+            "lat": 50.966759,
+            "lng": 5.48298
+        },
+        "otherCity": {
+            "name": "Troisdorf, Germany",
+            "lat": 50.817921,
+            "lng": 7.14074
+        },
+        "url": "https://www.genk.be/stedenbanden-en-peterschappen",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Genk",
+            "lat": 50.966759,
+            "lng": 5.48298
+        },
+        "otherCity": {
+            "name": "Nieuwpoort, Belgium",
+            "lat": 51.144161,
+            "lng": 2.7284
+        },
+        "url": "https://www.genk.be/stedenbanden-en-peterschappen",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Genk",
+            "lat": 50.966759,
+            "lng": 5.48298
+        },
+        "otherCity": {
+            "name": "Sittard-Geleen, Netherlands",
+            "lat": 50.967331,
+            "lng": 5.8277
+        },
+        "url": "https://www.genk.be/stedenbanden-en-peterschappen",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Genk",
+            "lat": 50.966759,
+            "lng": 5.48298
+        },
+        "otherCity": {
+            "name": "Suzhou, China",
+            "lat": 31.40299,
+            "lng": 120.733528
+        },
+        "url": "https://www.genk.be/stedenbanden-en-peterschappen",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Genk",
+            "lat": 50.966759,
+            "lng": 5.48298
+        },
+        "otherCity": {
+            "name": "Kayseri, Turkey",
+            "lat": 38.72253,
+            "lng": 35.48745
+        },
+        "url": "https://www.genk.be/stedenbanden-en-peterschappen",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Genk",
+            "lat": 50.966759,
+            "lng": 5.48298
+        },
+        "otherCity": {
+            "name": "Cieszyn, Poland",
+            "lat": 49.755741,
+            "lng": 18.65624
+        },
+        "url": "https://www.genk.be/stedenbanden-en-peterschappen",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Turnhout",
+            "lat": 51.328651,
+            "lng": 4.92959
+        },
+        "otherCity": {
+            "name": "Hammelburg, Germany",
+            "lat": 50.10643,
+            "lng": 9.85811
+        },
+        "url": "https://www.turnhout.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Turnhout",
+            "lat": 51.328651,
+            "lng": 4.92959
+        },
+        "otherCity": {
+            "name": "Gödöllő, Hungary",
+            "lat": 47.599972,
+            "lng": 19.372299
+        },
+        "url": "https://www.turnhout.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Turnhout",
+            "lat": 51.328651,
+            "lng": 4.92959
+        },
+        "otherCity": {
+            "name": "Vânători, Romania",
+            "lat": 46.962509,
+            "lng": 22.84775
+        },
+        "url": "https://www.turnhout.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Turnhout",
+            "lat": 51.328651,
+            "lng": 4.92959
+        },
+        "otherCity": {
+            "name": "Hanzhong, China",
+            "lat": 33.011761,
+            "lng": 107.028198
+        },
+        "url": "https://www.turnhout.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Halen",
+            "lat": 50.95393,
+            "lng": 5.08821
+        },
+        "otherCity": {
+            "name": "Pasewalk, Germany",
+            "lat": 53.51276,
+            "lng": 14.00731
+        },
+        "url": "https://www.halen.be/zusterstad",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Hamont-Achel",
+            "lat": 51.255081,
+            "lng": 5.51175
+        },
+        "otherCity": {
+            "name": "Strausberg, Germany",
+            "lat": 52.558929,
+            "lng": 13.90424
+        },
+        "url": "https://www.hamont-achel.be/product/780/partnerschap-strausberg---toelagereglement-jumelageactiviteiten-met-aanvraagformulier-en-werkingsverslag",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Nieuwerkerken",
+            "lat": 50.881008,
+            "lng": 5.21476
+        },
+        "otherCity": {
+            "name": "San Casciano in Val di Pesa, Italy",
+            "lat": 43.64521,
+            "lng": 11.20195
+        },
+        "url": "https://www.nieuwerkerken.be/verbroederingscomite",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Hasselt",
+            "lat": 50.924412,
+            "lng": 5.30157
+        },
+        "otherCity": {
+            "name": "Itami, Japan",
+            "lat": 34.786179,
+            "lng": 135.407059
+        },
+        "url": "https://www.hasselt.be/nl/nieuws/jolan-fietst-naar-onze-japanse-zusterstad-itami",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Hasselt",
+            "lat": 50.924412,
+            "lng": 5.30157
+        },
+        "otherCity": {
+            "name": "Detmold, Duitsland",
+            "lat": 51.92873,
+            "lng": 8.8753
+        },
+        "url": "https://www.hasselt.be/nl/subsidie-jumelage-activiteit",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Zoersel",
+            "lat": 51.256371,
+            "lng": 4.67246
+        },
+        "otherCity": {
+            "name": "Lora del Río, Spain",
+            "lat": 37.66925,
+            "lng": -5.51342
+        },
+        "url": "https://www.zoersel.be/leven-en-welzijn/internationale-samenwerking/jumelages/lora-del-rio",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Zoersel",
+            "lat": 51.256371,
+            "lng": 4.67246
+        },
+        "otherCity": {
+            "name": "Crucea, Romania",
+            "lat": 47.350609,
+            "lng": 25.61128
+        },
+        "url": "https://www.zoersel.be/leven-en-welzijn/internationale-samenwerking/jumelages/crucea",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Zoersel",
+            "lat": 51.256371,
+            "lng": 4.67246
+        },
+        "otherCity": {
+            "name": "Gräfenhainichen, Germany",
+            "lat": 51.710011,
+            "lng": 12.46742
+        },
+        "url": "https://www.zoersel.be/leven-en-welzijn/internationale-samenwerking/jumelages/gr%C3%A4fenhainichen",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Zoersel",
+            "lat": 51.256371,
+            "lng": 4.67246
+        },
+        "otherCity": {
+            "name": "Elancourt, France",
+            "lat": 48.77713,
+            "lng": 1.95692
+        },
+        "url": "https://www.zoersel.be/leven-en-welzijn/internationale-samenwerking/jumelages/elancourt",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Zoersel",
+            "lat": 51.256371,
+            "lng": 4.67246
+        },
+        "otherCity": {
+            "name": "Moutier, Switzerland",
+            "lat": 47.276859,
+            "lng": 7.3709
+        },
+        "url": "https://www.zoersel.be/leven-en-welzijn/internationale-samenwerking/jumelages/moutier",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Zoersel",
+            "lat": 51.256371,
+            "lng": 4.67246
+        },
+        "otherCity": {
+            "name": "Bohicon, Benin",
+            "lat": 7.184,
+            "lng": 2.0808
+        },
+        "url": "https://www.zoersel.be/leven-en-welzijn/internationale-samenwerking/stedenband",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Merelbeke",
+            "lat": 50.98037,
+            "lng": 3.74642
+        },
+        "otherCity": {
+            "name": "Toucountouna, Benin",
+            "lat": 10.56791,
+            "lng": 1.49225
+        },
+        "url": "https://www.merelbeke.be/wonen-en-leven/merelbeke-toucountouna/de-stedenband",
+        "link": "stedenband"
+    }, {
+        "city": {
+            "name": "Bocholt",
+            "lat": 51.176559,
+            "lng": 5.56079
+        },
+        "otherCity": {
+            "name": "Bocholt, Germany",
+            "lat": 51.853748,
+            "lng": 6.57043
+        },
+        "url": "https://bocholt.be/inwoner/onze-gemeente/bocholt-in-de-wereld/jumelage-met-duits-bocholt/",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Truiden",
+            "lat": 50.82695,
+            "lng": 5.20342
+        },
+        "otherCity": {
+            "name": "Nueva Guinea, Nicaragua",
+            "lat": 12.67128,
+            "lng": -85.581886
+        },
+        "url": "https://www.sint-truiden.be/stedenband-nueva-guinea",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Truiden",
+            "lat": 50.82695,
+            "lng": 5.20342
+        },
+        "otherCity": {
+            "name": "Duras, France",
+            "lat": 44.675442,
+            "lng": 0.19771
+        },
+        "url": "https://www.sint-truiden.be/stedenband-duras",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Kraainem",
+            "lat": 50.842571,
+            "lng": 4.4692
+        },
+        "otherCity": {
+            "name": "Cyanika, Rwanda",
+            "lat": -2.45033,
+            "lng": 29.60523
+        },
+        "url": "https://www.kraainem.be/nl/product/246/jumelage-avec-cyanika---rwanda",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Kraainem",
+            "lat": 50.842571,
+            "lng": 4.4692
+        },
+        "otherCity": {
+            "name": "Saint-Trojan-les-Bains, France",
+            "lat": 45.829868,
+            "lng": -1.22213
+        },
+        "url": "https://www.kraainem.be/nl/product/247/jumelage-avec-saint-trojan-les-bains",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Leuven",
+            "lat": 50.884178,
+            "lng": 4.72055
+        },
+        "otherCity": {
+            "name": "Cristian, Romania",
+            "lat": 45.78371,
+            "lng": 24.02829
+        },
+        "url": "https://www.leuven.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Leuven",
+            "lat": 50.884178,
+            "lng": 4.72055
+        },
+        "otherCity": {
+            "name": "Krakow, Poland",
+            "lat": 50.046909,
+            "lng": 19.997061
+        },
+        "url": "https://www.leuven.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Leuven",
+            "lat": 50.884178,
+            "lng": 4.72055
+        },
+        "otherCity": {
+            "name": "Louvain-la-Neuve, Belgium",
+            "lat": 50.674171,
+            "lng": 4.61416
+        },
+        "url": "https://www.leuven.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Leuven",
+            "lat": 50.884178,
+            "lng": 4.72055
+        },
+        "otherCity": {
+            "name": "Lüdenscheid, Germany",
+            "lat": 51.21294,
+            "lng": 7.63476
+        },
+        "url": "https://www.leuven.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Leuven",
+            "lat": 50.884178,
+            "lng": 4.72055
+        },
+        "otherCity": {
+            "name": "Rennes, France",
+            "lat": 48.116001,
+            "lng": -1.68136
+        },
+        "url": "https://www.leuven.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Leuven",
+            "lat": 50.884178,
+            "lng": 4.72055
+        },
+        "otherCity": {
+            "name": "'s-Hertogenbosch, Netherlands",
+            "lat": 51.714321,
+            "lng": 5.35642
+        },
+        "url": "https://www.leuven.be/zustersteden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Gillis-Waas",
+            "lat": 51.234169,
+            "lng": 4.1239
+        },
+        "otherCity": {
+            "name": "Águeda, Portugal",
+            "lat": 40.594631,
+            "lng": -8.416
+        },
+        "url": "https://www.sint-gillis-waas.be/bestuur-en-beleid/over-sint-gillis-waas/jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ronse",
+            "lat": 50.752811,
+            "lng": 3.60136
+        },
+        "otherCity": {
+            "name": "Kleve, Germany",
+            "lat": 51.798679,
+            "lng": 6.145
+        },
+        "url": "https://www.ronse.be/nl/jumelages-de-zustersteden-van-ronse",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ronse",
+            "lat": 50.752811,
+            "lng": 3.60136
+        },
+        "otherCity": {
+            "name": "Jablonec Nad Nisou, Czechia",
+            "lat": 50.726551,
+            "lng": 15.15942
+        },
+        "url": "https://www.ronse.be/nl/jumelages-de-zustersteden-van-ronse",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ronse",
+            "lat": 50.752811,
+            "lng": 3.60136
+        },
+        "otherCity": {
+            "name": "Sandwich, England",
+            "lat": 51.28545,
+            "lng": 1.33964
+        },
+        "url": "https://www.ronse.be/nl/jumelages-de-zustersteden-van-ronse",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ronse",
+            "lat": 50.752811,
+            "lng": 3.60136
+        },
+        "otherCity": {
+            "name": "M'Saken, Tunesia",
+            "lat": 35.73304,
+            "lng": 10.57519
+        },
+        "url": "https://www.ronse.be/nl/jumelages-de-zustersteden-van-ronse",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ronse",
+            "lat": 50.752811,
+            "lng": 3.60136
+        },
+        "otherCity": {
+            "name": "Saint-Valery sur Somme, France",
+            "lat": 50.174179,
+            "lng": 1.62311
+        },
+        "url": "https://www.ronse.be/nl/jumelages-de-zustersteden-van-ronse",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Tervuren",
+            "lat": 50.830669,
+            "lng": 4.53071
+        },
+        "otherCity": {
+            "name": "Kloster-Lehnin, Germany",
+            "lat": 52.31937,
+            "lng": 12.72464
+        },
+        "url": "https://www.tervuren.be/partnergemeente-kloster-lehnin",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Zele",
+            "lat": 51.067162,
+            "lng": 4.03239
+        },
+        "otherCity": {
+            "name": "Cham, Germany",
+            "lat": 49.202251,
+            "lng": 12.66285
+        },
+        "url": "https://www.zele.be/zusterstad-cham",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Niklaas",
+            "lat": 51.16856,
+            "lng": 4.10197
+        },
+        "otherCity": {
+            "name": "Colmar, France",
+            "lat": 48.111092,
+            "lng": 7.36362
+        },
+        "url": "https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/internationale-samenwerking",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Niklaas",
+            "lat": 51.16856,
+            "lng": 4.10197
+        },
+        "otherCity": {
+            "name": "Lucca, Italy",
+            "lat": 43.858898,
+            "lng": 10.46303
+        },
+        "url": "https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/internationale-samenwerking",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Niklaas",
+            "lat": 51.16856,
+            "lng": 4.10197
+        },
+        "otherCity": {
+            "name": "Abingdon, England",
+            "lat": 51.672161,
+            "lng": -1.28343
+        },
+        "url": "https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/internationale-samenwerking",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Niklaas",
+            "lat": 51.16856,
+            "lng": 4.10197
+        },
+        "otherCity": {
+            "name": "Schongau, Germany",
+            "lat": 47.812511,
+            "lng": 10.89501
+        },
+        "url": "https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/internationale-samenwerking",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Niklaas",
+            "lat": 51.16856,
+            "lng": 4.10197
+        },
+        "otherCity": {
+            "name": "Gorinchem, Netherlands",
+            "lat": 51.841221,
+            "lng": 4.98148
+        },
+        "url": "https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/internationale-samenwerking",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Niklaas",
+            "lat": 51.16856,
+            "lng": 4.10197
+        },
+        "otherCity": {
+            "name": "Tábor, Czechia",
+            "lat": 49.419231,
+            "lng": 14.68101
+        },
+        "url": "https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/internationale-samenwerking",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Niklaas",
+            "lat": 51.16856,
+            "lng": 4.10197
+        },
+        "otherCity": {
+            "name": "Al-Hoceima, Morocco",
+            "lat": 35.23637,
+            "lng": -3.94326
+        },
+        "url": "https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/internationale-samenwerking",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Niklaas",
+            "lat": 51.16856,
+            "lng": 4.10197
+        },
+        "otherCity": {
+            "name": "Tambacounda, Senegal",
+            "lat": 13.76926,
+            "lng": -13.66829
+        },
+        "url": "https://www.sint-niklaas.be/onze-dienstverlening/bestuur-en-participatie/internationale-samenwerking",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Poperinge",
+            "lat": 50.866192,
+            "lng": 2.6963
+        },
+        "otherCity": {
+            "name": "Wolnzach, Germany",
+            "lat": 48.603489,
+            "lng": 11.64222
+        },
+        "url": "https://www.poperinge.be/jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Poperinge",
+            "lat": 50.866192,
+            "lng": 2.6963
+        },
+        "otherCity": {
+            "name": "Saint-Victor-de-Buthon, France",
+            "lat": 48.41087,
+            "lng": 0.97932
+        },
+        "url": "https://www.poperinge.be/jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Poperinge",
+            "lat": 50.866192,
+            "lng": 2.6963
+        },
+        "otherCity": {
+            "name": "Mézière-en-Brenne, France",
+            "lat": 46.80843,
+            "lng": 1.25498
+        },
+        "url": "https://www.poperinge.be/jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Poperinge",
+            "lat": 50.866192,
+            "lng": 2.6963
+        },
+        "otherCity": {
+            "name": "Žatec, Czechia",
+            "lat": 50.313648,
+            "lng": 13.54692
+        },
+        "url": "https://www.poperinge.be/jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Poperinge",
+            "lat": 50.866192,
+            "lng": 2.6963
+        },
+        "otherCity": {
+            "name": "Hythe, England",
+            "lat": 51.0681,
+            "lng": 1.06337
+        },
+        "url": "https://www.poperinge.be/jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Poperinge",
+            "lat": 50.866192,
+            "lng": 2.6963
+        },
+        "otherCity": {
+            "name": "Rixensart, Belgium",
+            "lat": 50.721809,
+            "lng": 4.51611
+        },
+        "url": "https://www.poperinge.be/jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Poperinge",
+            "lat": 50.866192,
+            "lng": 2.6963
+        },
+        "otherCity": {
+            "name": "Frielendorf, Germany",
+            "lat": 50.955971,
+            "lng": 9.33216
+        },
+        "url": "https://www.poperinge.be/jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Poperinge",
+            "lat": 50.866192,
+            "lng": 2.6963
+        },
+        "otherCity": {
+            "name": "Obterre, France",
+            "lat": 46.912029,
+            "lng": 1.06318
+        },
+        "url": "https://www.poperinge.be/jumelages",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Pittem",
+            "lat": 50.999962,
+            "lng": 3.26227
+        },
+        "otherCity": {
+            "name": "La Meyze, France",
+            "lat": 45.609482,
+            "lng": 1.20061
+        },
+        "url": "https://www.pittem.be/nl/onze-gemeente/jumelages/frankrijk-la-meyze",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Pittem",
+            "lat": 50.999962,
+            "lng": 3.26227
+        },
+        "otherCity": {
+            "name": "Shawnee, USA",
+            "lat": 39.01675,
+            "lng": -94.797127
+        },
+        "url": "https://www.pittem.be/nl/onze-gemeente/jumelages/amerika-shawnee",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Sint-Pieters-Leeuw",
+            "lat": 50.788601,
+            "lng": 4.25253
+        },
+        "otherCity": {
+            "name": "Altenahr, Germany",
+            "lat": 50.523521,
+            "lng": 6.98799
+        },
+        "url": "https://www.sint-pieters-leeuw.be/over-leeuw/algemene-informatie/stedenband-met-altenahr",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Zedelgem",
+            "lat": 51.124569,
+            "lng": 3.12404
+        },
+        "otherCity": {
+            "name": "Reil, Germany",
+            "lat": 50.024071,
+            "lng": 7.10329
+        },
+        "url": "https://www.zedelgem.be/jumelage-met-het-duitse-reil",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Oostende",
+            "lat": 51.214951,
+            "lng": 2.93324
+        },
+        "otherCity": {
+            "name": "Ostende, Argentina",
+            "lat": -37.124981,
+            "lng": -56.883518
+        },
+        "url": "https://www.oostende.be/Ostende-historiek",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Oostende",
+            "lat": 51.214951,
+            "lng": 2.93324
+        },
+        "otherCity": {
+            "name": "Banjul, Gambia",
+            "lat": 13.45184,
+            "lng": -16.57778
+        },
+        "url": "https://www.oostende.be/historiek-Banjul",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Oostende",
+            "lat": 51.214951,
+            "lng": 2.93324
+        },
+        "otherCity": {
+            "name": "Monaco",
+            "lat": 43.73119,
+            "lng": 7.42287
+        },
+        "url": "https://www.oostende.be/historiek-van-de-jumelage",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Oostkamp",
+            "lat": 51.121288,
+            "lng": 3.23404
+        },
+        "otherCity": {
+            "name": "Bad Langensalza, Germany",
+            "lat": 51.108219,
+            "lng": 10.66984
+        },
+        "url": "https://www.oostkamp.be/bad-langensalza",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Oostkamp",
+            "lat": 51.121288,
+            "lng": 3.23404
+        },
+        "otherCity": {
+            "name": "Bad Nauheim, Germany",
+            "lat": 50.376541,
+            "lng": 8.74755
+        },
+        "url": "https://www.oostkamp.be/bad-nauheim",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Oostkamp",
+            "lat": 51.121288,
+            "lng": 3.23404
+        },
+        "otherCity": {
+            "name": "Chaumont, France",
+            "lat": 48.088039,
+            "lng": 5.11998
+        },
+        "url": "https://www.oostkamp.be/chaumont",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Oostkamp",
+            "lat": 51.121288,
+            "lng": 3.23404
+        },
+        "otherCity": {
+            "name": "Comé, Benin",
+            "lat": 6.43181,
+            "lng": 1.90871
+        },
+        "url": "https://www.oostkamp.be/stedenband-met-regio-uit-het-zuiden",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Gistel",
+            "lat": 51.158249,
+            "lng": 2.96708
+        },
+        "otherCity": {
+            "name": "Wierre-Effroy, France",
+            "lat": 50.772789,
+            "lng": 1.73383
+        },
+        "url": "https://www.gistel.be/ereburgers",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Tielt",
+            "lat": 51.00745,
+            "lng": 3.37152
+        },
+        "otherCity": {
+            "name": "Brignoles, France",
+            "lat": 43.387932,
+            "lng": 6.13369
+        },
+        "url": "https://www.tielt.be/product/80/europastad",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Tielt",
+            "lat": 51.00745,
+            "lng": 3.37152
+        },
+        "otherCity": {
+            "name": "Szamotuły, Poland",
+            "lat": 52.610168,
+            "lng": 16.577351
+        },
+        "url": "https://www.tielt.be/product/80/europastad",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Tielt",
+            "lat": 51.00745,
+            "lng": 3.37152
+        },
+        "otherCity": {
+            "name": "Groß-Gerau, Germany",
+            "lat": 49.914398,
+            "lng": 8.46725
+        },
+        "url": "https://www.tielt.be/product/80/europastad",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Tielt",
+            "lat": 51.00745,
+            "lng": 3.37152
+        },
+        "otherCity": {
+            "name": "Bruneck, Italy",
+            "lat": 46.792919,
+            "lng": 11.93872
+        },
+        "url": "https://www.tielt.be/product/80/europastad",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ieper",
+            "lat": 50.8517,
+            "lng": 2.89147
+        },
+        "otherCity": {
+            "name": "Seelbach, Germany",
+            "lat": 50.306938,
+            "lng": 7.86083
+        },
+        "url": "https://www.ieper.be/partnersteden-2",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ieper",
+            "lat": 50.8517,
+            "lng": 2.89147
+        },
+        "otherCity": {
+            "name": "Siegen, Germany",
+            "lat": 50.88142,
+            "lng": 8.03172
+        },
+        "url": "https://www.ieper.be/partnersteden-2",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ieper",
+            "lat": 50.8517,
+            "lng": 2.89147
+        },
+        "otherCity": {
+            "name": "Saint-Omer, France",
+            "lat": 50.767319,
+            "lng": 2.26144
+        },
+        "url": "https://www.ieper.be/partnersteden-2",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ieper",
+            "lat": 50.8517,
+            "lng": 2.89147
+        },
+        "otherCity": {
+            "name": "Sittingbourne, England",
+            "lat": 51.33675,
+            "lng": 0.80137
+        },
+        "url": "https://www.ieper.be/partnersteden-2",
+        "link": "jumelage"
+    }, {
+        "city": {
+            "name": "Ieper",
+            "lat": 50.8517,
+            "lng": 2.89147
+        },
+        "otherCity": {
+            "name": "Lehrte, Germany",
+            "lat": 52.37682,
+            "lng": 10.01835
+        },
+        "url": "https://www.ieper.be/partnersteden-2",
+        "link": "jumelage"
+    }
+]

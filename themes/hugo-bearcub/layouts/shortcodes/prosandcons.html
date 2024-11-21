@@ -1,0 +1,18 @@
+<div class="row">
+    <div class="column pros border-right">
+        <h4 style="display: flex; justify-content: center;">Likes</h4>
+        <ul>
+        {{ range split .Params.pros "|" }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    </div>
+    <div class="column cons">
+        <h4 style="display: flex; justify-content: center;">Dislikes</h4>
+        <ul>
+            {{ range split .Params.cons "|" }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+    </div>
+</div>

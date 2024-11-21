@@ -183,6 +183,18 @@ blockquote {
   font-size: 0.85rem;
 }
 
+.haiku {
+  font-size: 1.25rem;
+  text-align: right;
+  color: lightpink;
+}
+
+.gameinfo {
+  /* border: 4px solid #0096ff; */
+  padding: 5px;
+  font-weight: bold;
+  color: #1e679c;
+}
 
 .helptext {
   color: #aaa;
@@ -265,4 +277,16 @@ figcaption > p {
 .inline-spoiler:not(:hover) {
   color: black;
   background: black;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
+
+.border-right {
+  border-right: 1px solid #0096ff
 }

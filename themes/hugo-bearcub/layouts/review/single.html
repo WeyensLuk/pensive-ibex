@@ -1,0 +1,43 @@
+{{ define "main" }}
+  {{ if not .Params.menu }}
+    <h1>Review: {{ .Title }}</h1>
+    <p class="byline">
+      {{ if .Date }}
+        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+          {{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}
+        </time>
+        {{ with .Params.author }}· {{.}}{{ end }}
+      {{ end }}
+    </p>
+  {{ end }}
+  <p class="gameinfo">
+    What <a href="{{ .Params.opencritic }}" target="_blank">other people</a> think<br />
+    How long to beat: {{ .Params.howlongtobeathours }} hours<br />
+    Developer: <a href="{{ .Params.developerwebsite }}">{{ .Params.developer }}</a>
+  </p>
+  <content>
+    {{ .Content }}
+
+    {{ if .Section | eq "blog" }}
+      <em>
+        {{- partial "contactme.html" . -}}<br />
+        Did you spot a mistake? You can help me fix it by opening a <a href="{{ .Site.Params.Author.github }}" target="_blank">Pull Request</a>.
+      </em>
+    {{ end }}
+  </content>
+  <p>
+    {{ range (.GetTerms "tags") }}
+      <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
+    {{ end }}
+  </p>
+  
+  {{ if .Store.Get "hasMermaid" }}
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({ 
+        startOnLoad: true,
+        theme: 'dark',
+      });
+    </script>
+  {{ end }}
+{{ end }}

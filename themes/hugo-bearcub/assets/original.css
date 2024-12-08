@@ -77,6 +77,12 @@ a:hover {
   width: 50%;
 }
 
+img.center {
+  display: block;
+  margin: auto;
+  width: 100%;
+}
+
 .column-25 {
   flex: 25%;
 }

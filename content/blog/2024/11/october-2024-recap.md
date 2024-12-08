@@ -16,7 +16,7 @@ I've also started keeping track of my time with an app on my mobile. I'll have g
 
 ### [The OA](https://www.rottentomatoes.com/tv/the_oa)
 
-![The OA](/img/blog/2024/11/october-2024-recap/the-oa.png#center)
+![The OA](/img/blog/2024/11/october-2024-recap/the-oa.png)
 
 _ONGOING_
 
@@ -26,13 +26,13 @@ I love the weird titles. This one has such a great premise, all outlandish ideas
 
 ### [Rebel Ridge](https://www.rottentomatoes.com/m/rebel_ridge)
 
-![Rebel Ridge](/img/blog/2024/11/october-2024-recap/rebel-ridge.png#center)
+![Rebel Ridge](/img/blog/2024/11/october-2024-recap/rebel-ridge.png)
 
 If you had given the script of this movie to any old director, this would have turned into a Hollywood action-packed movie. Instead Saulnier turned this into a story that never loses its suspense. You can feel the tension in the movie from the very first moment and it never lets up. I feel like the movie is a mirror being held up, showing what society can feel like for the black community.
 
 ### [It's What's Inside](https://www.rottentomatoes.com/m/its_whats_inside)
 
-![It's What's Inside](/img/blog/2024/11/october-2024-recap/its-whats-inside.png#center)
+![It's What's Inside](/img/blog/2024/11/october-2024-recap/its-whats-inside.png)
 
 I don't know how we found this movie, but again, such a great premise! I won't spoil anything, because I went into it not knowing what the movie was about and really enjoyed the discovery of the plot. The only thing I would say is that I would also be interested in watching a movie, that delved more into the psychology of what was happening in the movie. 
 
@@ -44,7 +44,7 @@ Since my last post in July I have actually started, read and finished a bunch of
 
 ### [The Algebraist, by Iain M. Banks](https://app.thestorygraph.com/books/89271571-50ca-4316-9d00-4fd74d3f6b8d)
 
-![The Algebraist](/img/blog/2024/11/october-2024-recap/the-algebraist.png#center)
+![The Algebraist](/img/blog/2024/11/october-2024-recap/the-algebraist.png)
 
 _READING_
 
@@ -52,7 +52,7 @@ Can't say a whole lot about this book yet. It's my read-before-bed book. And I h
 
 ### [Typeset in the Future, by Dave Addey](https://app.thestorygraph.com/books/9d6aa8bb-3337-4b57-b7cb-b87722af7746)
 
-![Typeset in the Future](/img/blog/2024/11/october-2024-recap/typeset-in-the-future.png#center)
+![Typeset in the Future](/img/blog/2024/11/october-2024-recap/typeset-in-the-future.png)
 
 _READING_
 
@@ -60,7 +60,7 @@ This is the novelization of [Dave Addey's blog](https://typesetinthefuture.com/)
 
 ### [Fairy Tale, by Stephen King](https://app.thestorygraph.com/books/ac3ea915-993d-4f30-8632-0f91e4ad0704)
 
-![Fairy Tale](/img/blog/2024/11/october-2024-recap/fairy-tale.png#center)
+![Fairy Tale](/img/blog/2024/11/october-2024-recap/fairy-tale.png)
 
 _LISTENING_
 
@@ -70,7 +70,7 @@ I still had an Audible credit lying around after my free Prime subscription for 
 
 ### [The Longest Journey](https://www.metacritic.com/game/the-longest-journey/)
 
-![The Longest Journey](/img/blog/2024/11/october-2024-recap/the-longest-journey.png#center)
+![The Longest Journey](/img/blog/2024/11/october-2024-recap/the-longest-journey.png)
 
 _FINISHED_
 

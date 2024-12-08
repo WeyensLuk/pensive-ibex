@@ -1,0 +1,13 @@
+{{ $url := .Destination }}
+<figure>
+	{{ if or (hasPrefix $url "/") (hasPrefix $url "https://") (hasPrefix $url "http://") }}
+	{{ else }}
+		{{ $url  = (printf "%s%s" .Page.Permalink $url) }}
+	{{ end }}
+	<a href="{{ $url | absURL }}" class="lightbox">
+		<img src="{{ $url | absURL }}" class="center" loading="lazy"{{ with .Text }} alt="{{ . }}"{{ end }}{{ with .Title}} title="{{ . }}"{{ end }} data-pagefind-index-attrs="title">
+	</a>
+	{{ with .Title }}
+		<figcaption>{{ . }}</figcaption>
+	{{ end }}
+</figure>

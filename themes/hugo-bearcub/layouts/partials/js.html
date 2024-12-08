@@ -1,0 +1,4 @@
+<script defer src='/js/simple-lightbox.min.js'></script>
+
+{{ $script := resources.Get "pensiveibex.js" | minify }}
+<script defer src='{{ $script.Permalink }}'></script>

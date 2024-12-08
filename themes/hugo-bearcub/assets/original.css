@@ -73,8 +73,7 @@ a:hover {
 
 .center {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 50%;
 }
 
@@ -96,11 +95,6 @@ img[src$='#floatright'] {
 	height: auto;
 	float: right;
   margin-left: 1rem;
-}
-
-img[src$='#center'] {
-	margin: auto;
-  display: block;
 }
 
 .homepage-content {
@@ -277,10 +271,6 @@ figcaption > p {
 .inline-spoiler:not(:hover) {
   color: black;
   background: black;
-}
-
-.row {
-  display: flex;
 }
 
 .column {

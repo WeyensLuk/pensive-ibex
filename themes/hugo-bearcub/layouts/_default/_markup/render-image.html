@@ -2,9 +2,9 @@
 {{- $class := index (strings.Split .Destination "#") 1 }}
 <figure>
 	{{ $thumbUrl := $url }}
+	{{ $thumb := resources.Get $url }}
 	{{ if or (hasPrefix $url "https://") (hasPrefix $url "http://") }}
 	{{ else }}
-		{{ $thumb := resources.Get $url }}
 		{{ if not (hasSuffix $url "svg") }}
 			{{- $thumbUrl = ($thumb.Resize "600x").RelPermalink }}
 		{{ else }}
@@ -15,7 +15,7 @@
 	{{ else }}
 		{{ $url  = (printf "%s%s" .Page.Permalink $url) }}
 	{{ end }}
-	<a href="{{ $url | absURL }}" class="lightbox">
+	<a href="{{ $thumb.Permalink }}" class="lightbox">
 		<img src="{{ $thumbUrl }}" class="center {{ $class }}" loading="lazy"{{ with .Text }} alt="{{ . }}"{{ end }}{{ with .Title}} title="{{ . }}"{{ end }}>
 	</a>
 	{{ with .Title }}

@@ -1,6 +1,0 @@
-repos:
-  - repo: https://github.com/shssoichiro/oxipng
-    rev: v9.0.0
-    hooks:
-      - id: oxipng
-        args: ["-o", "max", "--strip", "all", "--alpha"]

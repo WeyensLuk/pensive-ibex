@@ -95,7 +95,7 @@ img.center {
   display: flex;
 }
 
-img[src$='#floatright'] {
+.floatright {
   border-radius: 25px;
   max-width: 30%;
 	height: auto;

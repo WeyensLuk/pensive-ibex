@@ -1,11 +1,22 @@
-{{ $url := .Destination }}
+{{- $url := index (strings.Split .Destination "#") 0 }}
+{{- $class := index (strings.Split .Destination "#") 1 }}
 <figure>
+	{{ $thumbUrl := $url }}
+	{{ if or (hasPrefix $url "https://") (hasPrefix $url "http://") }}
+	{{ else }}
+		{{ $thumb := resources.Get $url }}
+		{{ if not (hasSuffix $url "svg") }}
+			{{- $thumbUrl = ($thumb.Resize "600x").RelPermalink }}
+		{{ else }}
+			{{- $thumbUrl = $thumb.RelPermalink }}
+		{{ end }}
+	{{ end }}
 	{{ if or (hasPrefix $url "/") (hasPrefix $url "https://") (hasPrefix $url "http://") }}
 	{{ else }}
 		{{ $url  = (printf "%s%s" .Page.Permalink $url) }}
 	{{ end }}
 	<a href="{{ $url | absURL }}" class="lightbox">
-		<img src="{{ $url | absURL }}" class="center" loading="lazy"{{ with .Text }} alt="{{ . }}"{{ end }}{{ with .Title}} title="{{ . }}"{{ end }} data-pagefind-index-attrs="title">
+		<img src="{{ $thumbUrl }}" class="center {{ $class }}" loading="lazy"{{ with .Text }} alt="{{ . }}"{{ end }}{{ with .Title}} title="{{ . }}"{{ end }}>
 	</a>
 	{{ with .Title }}
 		<figcaption>{{ . }}</figcaption>

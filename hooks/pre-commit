@@ -8,7 +8,6 @@ fi
 
 for image in $staged_images; do
   oxipng -o 5 --strip all "$image"
-  echo "Compressed and stripped metadata from: $image"
 
   git add "$image"
 done

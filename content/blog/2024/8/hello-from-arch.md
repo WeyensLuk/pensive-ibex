@@ -6,12 +6,12 @@ tags = ['linux', 'sustainability', 'diy']
 
 My [Framework 16](https://frame.work/be/en/products/laptop16-diy-amd-7040) laptop arrived earlier this week and I finally had the time to put it together! I bought the DIY edition, and to be honest, I expected more DIY. The installation process was extremely smooth. I've setup desktop towers before and installing a PC like that took me way longer than it did for this laptop. Some things do come preinstalled. For example, the motherboard and CPU are already fit snuggly in place. The graphics module was already attached to the laptop. The only thing I had to do, was lift the mid-cover, install RAM and storage, put it all back and cover the whole thing with the mouse trackpad and keyboard. Then turn it over and install the extension ports. Oh yeah, I also had to attach the bezel. 
 
-![Expansion ports](/img/blog/2024/8/hello-from-arch/framework16-expansion-ports.png)
-![Expansion ports zoomed in](/img/blog/2024/8/hello-from-arch/framework16-expansion-ports-zoomed.png)
+![Expansion ports](framework16-expansion-ports.png)
+![Expansion ports zoomed in](framework16-expansion-ports-zoomed.png)
 
 All of the connectors are magnetic, so it just fits in place easily, no fiddling with connectors or screws. The overall process was laughably easy. I'm not sure why anyone would want to be the prebuilt edition. I bought my own set of storage and RAM, because I found the framework options to be too expensive. For storage you can't really go wrong, so I went with the tried and true [WD Black SN850X 2TB M.2 SSD](https://www.tomshardware.com/reviews/wd-black-sn850x-ssd-review-back-in-black). Memory is another beast, you can't just plug in any old memory module and expect it to work. Framework has [a list](https://knowledgebase.frame.work/en_us/what-dram-memory-is-supported-by-framework-laptop-16-ryS2Xr3ch) with all the tested memory modules, I cross-referenced this list with user experiences on Tweakers (a Dutch techies forum) and ended up with Kingston DDR5 FURY Impact 2x16GB 5600. 
 
-![Trackpad in my hands](/img/blog/2024/8/hello-from-arch/framework16-mousetrackpad.png)
+![Trackpad in my hands](framework16-mousetrackpad.png)
 
 After putting it all together, it booted up flawlessly first time. Excellent! Next step? Install Arch Linux. I had to borrow a USB stick from a friend, because I'm still temporarily living in my girlfriend's appartment and all my stuff is stored in a big container somewhere. Luckily, he came through. I did have some issues getting to boot from the USB stick, but it turned out this didn't have anything to do with the stick itself, but with the Secure Boot option in the BIOS. Arch Linux did mention this on their wiki, I just glanced over it (didn't even know I had Secure Boot). 
 

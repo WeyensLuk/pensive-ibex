@@ -4,7 +4,7 @@ date = 2024-04-05
 tags = ['puzzle']
 +++
 
-![Colour me interested](/img/blog/2024/4/colour-me-interested/colour-me-interested.svg "Colour me interested")
+![Colour me interested](colour-me-interested.svg "Colour me interested")
 
 That's it. That's all you get.
 

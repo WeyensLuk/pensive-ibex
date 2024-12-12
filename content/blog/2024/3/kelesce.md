@@ -4,7 +4,7 @@ date = 2024-03-25
 tags = ['puzzle']
 +++
 
-![The first ten words of Kelesce](/img/blog/2024/3/kelesce/kelesce.jpg "The first ten words of Kelesce")
+![The first ten words of Kelesce](kelesce.jpg "The first ten words of Kelesce")
 
 Last week I was tipped off to a puzzle hosted by [Alperen Keles](https://www.alperenkeles.com/). I opened the link and was immediately intrigued. Any puzzle with visual elements where you aren't given any information except for the simple task of deciphering what you see is a delight. 
 

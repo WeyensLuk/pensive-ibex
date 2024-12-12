@@ -1,19 +1,16 @@
 {{- $url := index (strings.Split .Destination "#") 0 }}
 {{- $class := index (strings.Split .Destination "#") 1 }}
 <figure>
+	{{ if not (hasPrefix $url "/") }}
+		{{ $url = (printf "%s%s" .Page.RelPermalink $url) }}
+	{{ end }}
+
 	{{ $thumbUrl := $url }}
 	{{ $thumb := resources.Get $url }}
-	{{ if or (hasPrefix $url "https://") (hasPrefix $url "http://") }}
+	{{ if not (hasSuffix $url "svg") }}
+		{{- $thumbUrl = ($thumb.Resize "600x").RelPermalink }}
 	{{ else }}
-		{{ if not (hasSuffix $url "svg") }}
-			{{- $thumbUrl = ($thumb.Resize "600x").RelPermalink }}
-		{{ else }}
-			{{- $thumbUrl = $thumb.RelPermalink }}
-		{{ end }}
-	{{ end }}
-	{{ if or (hasPrefix $url "/") (hasPrefix $url "https://") (hasPrefix $url "http://") }}
-	{{ else }}
-		{{ $url  = (printf "%s%s" .Page.Permalink $url) }}
+		{{- $thumbUrl = $thumb.RelPermalink }}
 	{{ end }}
 	<a href="{{ $thumb.Permalink }}" class="lightbox">
 		<img src="{{ $thumbUrl }}" class="center {{ $class }}" loading="lazy"{{ with .Text }} alt="{{ . }}"{{ end }}{{ with .Title}} title="{{ . }}"{{ end }}>

@@ -6,7 +6,7 @@ tags = ['creativity', 'critique']
 
 {{< quote quote="Be the best, stay small, and don't lose any money." author="George Lucas" >}}
 
-![Pirates Ahoy!](/img/blog/2024/3/unbound-creativity/the-mysteries-of-monkey-island.jpg#floatright)
+![Pirates Ahoy!](the-mysteries-of-monkey-island.jpg#floatright)
 I recently finished reading The Mysteries of Monkey Island by [Nicolas Deneschau](https://twitter.com/Nicozilla_FR). The Monkey Island game series remains with me after all these years. It's one of those games that has earned a cult following over the years, that has baffled the original creators ([Ron Gilbert](https://grumpygamer.com/), [Dave Grossman](http://www.phrenopolis.com/) and [Tim Schafer](https://www.doublefine.com/)). 
 
 In the book Nicolas tries to give some possible explanations why the game is such a staple in many top Adventure Games lists. His final conclusion, which is shared by [Dominic Armato](https://en.wikipedia.org/wiki/Dominic_Armato) is that it's the characters that are developed in the game. I hadn't really realized it yet, but that hit the nail on the head. 

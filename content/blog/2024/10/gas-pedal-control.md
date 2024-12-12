@@ -14,6 +14,6 @@ Given the way gas pedals work in electric cars, it might be worth considering to
 
 Here's a crude picture of what that might look like:
 
-![Gas pedal controls](/img/blog/2024/10/gas-pedal-controls/gas-pedal-mechanic.png)
+![Gas pedal controls](gas-pedal-mechanic.png)
 
 [^1]: Did you know modern cruise control mechanics were invented in 1948? See the original patent [via the Wayback Machine](https://web.archive.org/web/20190922164137/https://pdfpiw.uspto.gov/.piw?Docid=02519859&homeurl=http://patft.uspto.gov/netacgi/nph-Parser%3FSect2%3DPTO1%2526Sect2%3DHITOFF%2526p%3D1%2526u%3D/netahtml/PTO/search-bool.html%2526r%3D1%2526f%3DG%2526l%3D50%2526d%3DPALL%2526S1%3D2519859.PN.%2526OS%3DPN/2519859%2526RS%3DPN/2519859&PageNum=&Rtype=&SectionNum=&idkey=NONE&Input=View+first+page)

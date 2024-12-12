@@ -8,7 +8,7 @@ tags = ['recap']
 
 ### [Sherlock](https://www.rottentomatoes.com/tv/sherlock)
 
-![Sherlock](/img/blog/2024/8/july-2024-recap/sherlock.png)
+![Sherlock](sherlock.png)
 
 _FINISHED_
 
@@ -19,13 +19,13 @@ It's a very minor gripe in an otherwise stellar series. But it did bother me.
 
 ### [Dungeons & Dragons: Honor Among Thieves](https://www.rottentomatoes.com/m/dungeons_and_dragons_honor_among_thieves)
 
-![Dungeons & Dragons: Honor Among Thieves](/img/blog/2024/8/july-2024-recap/dungeons-and-dragons-honor-among-thieves.png)
+![Dungeons & Dragons: Honor Among Thieves](dungeons-and-dragons-honor-among-thieves.png)
 
 Released over a year ago and I remember not really being into the hype of wanting to see it in the cinema. I stick with that decision, it's a good movie, it's entertaining, it gave me some laughs. The plot just is okay, not surprising, not particularly gripping and somewhat predictable. To be fair, I'm a bit done with the amiable, witty "I don't really know what I'm doing" protagonists.
 
 ### [Howl's Moving Castle](https://www.rottentomatoes.com/m/howls_moving_castle)
 
-![Howl's Moving Castle](/img/blog/2024/8/july-2024-recap/howls-moving-castle.png)
+![Howl's Moving Castle](howls-moving-castle.png)
 
 The first, Studio Ghibli film I've seen, shocking I know. Nearly all of them have been on my to-watch list for ages now and I'm extremely glad I finally got round to watching this one. The ending is somewhat of a letdown, personally, but the overall story and animation quality are excellent!
 
@@ -33,7 +33,7 @@ The first, Studio Ghibli film I've seen, shocking I know. Nearly all of them hav
 
 ### [Last Argument of Kings](https://app.thestorygraph.com/books/6e953625-ee91-4f6c-8d7b-4425ab33f4d4)
 
-![Last Argument of Kings](/img/blog/2024/8/july-2024-recap/last-argument-of-kings.png)
+![Last Argument of Kings](last-argument-of-kings.png)
 
 _READING_
 
@@ -41,7 +41,7 @@ Reserved as my book-before-bed. About halfway through, but since I only read it 
 
 ### [Waarom niemand kwantum begrijpt](https://app.thestorygraph.com/books/bceb1031-61d4-4de3-80b9-fb72b5d1c0cb)
 
-![Waarom niemand kwantum begrijpt](/img/blog/2024/8/july-2024-recap/waarom-niemand-kwantum-begrijpt.png)
+![Waarom niemand kwantum begrijpt](waarom-niemand-kwantum-begrijpt.png)
 
 _FINISHED_
 
@@ -49,7 +49,7 @@ Started reading last month and finished it this month. I'm fascinated by science
 
 ### [From Hell](https://app.thestorygraph.com/books/d7ccd765-59e1-4b64-84e6-c1c4ddf67f56)
 
-![From Hell](/img/blog/2024/8/july-2024-recap/from-hell.png)
+![From Hell](from-hell.png)
 
 _READING_
 
@@ -57,7 +57,7 @@ Alan Moore's tale of Jack the Ripper has been on my list for a while. And I'm ex
 
 ### [Project Hail Mary](https://app.thestorygraph.com/books/ac3ea915-993d-4f30-8632-0f91e4ad0704)
 
-![Project Hail Mary](/img/blog/2024/8/july-2024-recap/project-hail-mary.png)
+![Project Hail Mary](project-hail-mary.png)
 
 _LISTENING_
 
@@ -67,7 +67,7 @@ I picked this up as an audiobook. I've heard great things about it, and found my
 
 ### [Neofeud](https://www.metacritic.com/game/neofeud/)
 
-![Neofeud](/img/blog/2024/8/july-2024-recap/neofeud.png)
+![Neofeud](neofeud.png)
 
 _FINISHED_
 
@@ -79,7 +79,7 @@ Puzzles, not many and not that hard. The game clearly indicates what you have to
 
 ### [The Room](https://www.metacritic.com/game/the-room/)
 
-![The Room](/img/blog/2024/8/july-2024-recap/the-room.png)
+![The Room](the-room.png)
 
 _FINISHED_
 
@@ -87,7 +87,7 @@ Wanted to play some more games that didn't take up a lot of time, that I could p
 
 ### [The Room Two](https://www.metacritic.com/game/the-room-two/)
 
-![The Room Two](/img/blog/2024/8/july-2024-recap/the-room-two.png)
+![The Room Two](the-room-two.png)
 
 _FINISHED_
 
@@ -95,7 +95,7 @@ See above.
 
 ### [The Room Three](https://www.metacritic.com/game/the-room-three/)
 
-![The Room Three](/img/blog/2024/8/july-2024-recap/the-room-three.png)
+![The Room Three](the-room-three.png)
 
 _PLAYING_
 

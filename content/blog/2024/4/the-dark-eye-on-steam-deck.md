@@ -20,7 +20,7 @@ The initial download I found was, of course, version 1.0.3 and not the version I
 
 Success! Now I just needed to run the installer on my Windows laptop and get the necessary extra files. 
 
-!["Blue error message from Windows telling me the app can't be run on my PC"](/img/blog/2024/4/the-dark-eye-on-steam-deck/this-app-cant-run-on-your-pc.png "Figures it wouldn't work")
+!["Blue error message from Windows telling me the app can't be run on my PC"](this-app-cant-run-on-your-pc.png "Figures it wouldn't work")
 
 Okay, sure... I just need a Win95 VM to install the files and I'm good to go. Again, [archive.org to the rescue](https://archive.org/details/windows_95_vdi)! You'll need [VirtualBox](https://www.virtualbox.org/) for this to work. You can add a new VM with the following steps:
 1. New

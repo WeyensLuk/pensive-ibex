@@ -14,15 +14,15 @@ If this were a movie instead of a blog, this is where a montage would be cut of 
 
 This brings me to what I find most fun about DIY projects. It's a lot of fun to work towards a certain result, but to me it's also about dealing with unexpected problems. DIY is more about problem-solving than it is about doing. It's rolling with the punches. It's trying something, hoping for the best, but adapting if it doesn't pan out.
 
-![Glue](/img/blog/2024/8/fancy-doors/glue.png)
+![Glue](glue.png)
 
 I used regular montage glue and the process was fairly straightforward. It just took a longer time than I expected and more glue than I anticipated. I thought I would be done after 3-4 hours and 1 can of glue would be enough. In the end, it took about 10 hours and 4 cans of glue. One thing I've learned about this project,  you can glue 12m of slats with 1 can of glue. 
 
 Here's the final result:
 
-![Fancy doors interior](/img/blog/2024/8/fancy-doors/fancy-doors-interior.png)
+![Fancy doors interior](fancy-doors-interior.png)
 
-![Fancy doors exterior](/img/blog/2024/8/fancy-doors/fancy-doors-exterior.png)
+![Fancy doors exterior](fancy-doors-exterior.png)
 
 [^1]: Or should I be saying qwant? Qwanted? Qwunt? Is qwanting a regular or irregular verb? In case you haven't heard of it. [You're welcome.](https://qwant.com)
 [^2]: Sorry Americans, my blog isn't popular enough to justify me translating metric units to imperial. Although it would seem fun to write a plugin that would translate units to the one that is most popular based on geographical location. Kind of like locale, but for units.

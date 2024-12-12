@@ -1,0 +1,16 @@
+#!/bin/sh
+
+staged_images=$(git diff --staged --name-only --diff-filter=ACM | grep -E '\.(png|jpg|jpeg|gif|bmp)$')
+
+if [[ -z "$staged_images" ]]; then
+  exit 0
+fi
+
+for image in $staged_images; do
+  oxipng -o 5 --strip all "$image"
+  echo "Compressed and stripped metadata from: $image"
+
+  git add "$image"
+done
+
+exit 0

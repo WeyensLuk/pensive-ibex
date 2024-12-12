@@ -6,7 +6,7 @@ tags = ['gaming']
 
 I grew up surrounded by computers. My father is an unbelievable Amiga fanboy. We must have owned over 5 or 6 Amiga's, The Amiga 1200 being my very own home computer and my beast of choice when it came to gaming at a young age. Everyone talks about DOS gaming in their childhood. I had this gem whenever I booted my machine, with its accompaning clicking sounds.
 
-![Kickstart](/img/blog/2024/7/edutainment-games/kickstart.png)
+![Kickstart](kickstart.png)
 
 I had cases full of floppy disks that my dad bought me off eBay, full of games released for the Amiga. As a kid, I had a plethora of games to choose from and just picked whatever had my fancy. Many of the games I played were not per se designed for kids, especially non native English speaking kids. I remember fumbling through games like Monkey Island 1 & 2 and Hook, without fully understanding the intricacies of the language. The insult swordfighting for example, was just a prompt/reply matching algorithm I noted down in order to quickly get past the bits I didn't actually understand.
 
@@ -14,7 +14,7 @@ However, that's not what I wanted to touch upon. I wanted to take the time going
 
 ## Where in the World is Carmen Sandiego?
 
-![Where in the world is Carmen Sandiego](/img/blog/2024/7/edutainment-games/where-in-the-world-is-carmen-sandiego.png)
+![Where in the world is Carmen Sandiego](where-in-the-world-is-carmen-sandiego.png)
 
 [Moby games](https://www.mobygames.com/game/4848/where-in-the-world-is-carmen-sandiego-enhanced/)
 
@@ -24,13 +24,13 @@ In any case, Carmen Sandiego is a criminal mastermind and has a small army of he
 
 Some of these clues might be the colors of the flag, the currency of the country or something about its history. As a kid, in the nineties, internet wasn't a thing yet. So I played this game next to the large encyclopedias my dad owned. Every single city has 3-4 linking connections to choose from. The world map doesn't show countries to visit, oh no, just cities. I must've been 8 or 10 years old and knowing Montreal is a city in Canada or that Port Moresby lies in Papua New Guinea isn't common knowledge. So every little bit of info I got from the game, I had to look up in actual paper encyclopedia. They were usually divided in several books, some editions (including the one we owned) had over 20 volumes. So whenever I set out to play this game, I was surrounded by several books flipped open on different pages with the necessary info in order to solve the clues the game gave.
 
-![Interrogating witnesses in Carmen Sandiego](/img/blog/2024/7/edutainment-games/carmen-sandiego-interrogating-witnesses.png "The gulf of what now?")
+![Interrogating witnesses in Carmen Sandiego](carmen-sandiego-interrogating-witnesses.png "The gulf of what now?")
 
 The game is now marked as abandonware and can be [freely played online](https://www.myabandonware.com/game/where-in-the-world-is-carmen-sandiego-enhanced-1ax). 
 
 ## Rayman Junior
 
-![Rayman Junior](/img/blog/2024/7/edutainment-games/rayman-junior.png)
+![Rayman Junior](rayman-junior.png)
 
 [Moby games](https://www.mobygames.com/game/56490/amazing-learning-games-with-rayman/)
 
@@ -40,13 +40,13 @@ This was such a blast to play, levels were themed to a certain topic, some would
 
 Not only that, but the platforming in the game wasn't that easy either, as I recall. There were parts where you would sit on a sliding platform, and as the platforming kept moving in the same direction, you were forced to pick the correct branching path based on the correct spelling of a spoken word. 
 
-![Rayman Junior maths](/img/blog/2024/7/edutainment-games/rayman-junior-maths.png)
+![Rayman Junior maths](rayman-junior-maths.png)
 
 My sister owns a medium-sized retro collection of games of the Playstation era, and I'm interested in finding out if this game is one of them. Replaying it and finding out if I ever made it to the end, would be fun!
 
 ## Spy Fox in "Dry Cereal"
 
-![Spy Fox in "Dry Cereal"](/img/blog/2024/7/edutainment-games/spy-fox-in-dry-cereal.png)
+![Spy Fox in "Dry Cereal"](spy-fox-in-dry-cereal.png)
 
 [Moby games](https://www.mobygames.com/game/21014/spy-fox-in-dry-cereal/)
 
@@ -60,7 +60,7 @@ I have only played the first game as a child, and am interested in revisting thi
 
 ## The Incredible Machine 2
 
-![The Incredible Machine 2](/img/blog/2024/7/edutainment-games/the-incredible-machine-2.png)
+![The Incredible Machine 2](the-incredible-machine-2.png)
 
 [Moby games](https://www.mobygames.com/game/1605/the-incredible-machine-2/)
 
@@ -70,6 +70,6 @@ The premise is seemingly simple, you get a level setup with different immovable 
 
 Every time I solved a level, I felt like a genius, finding the right solution with all of the chaos going on. At times you get the solution by accident, or when handling basketballs, you get a lucky bounce because of the placement of a certain part and end up solving a level without actually planning for it. Those moments are what I remember most fondly about this game. 
 
-![A slightly harder puzzle](/img/blog/2024/7/edutainment-games/the-incredible-machine-2-hard-puzzle.png)
+![A slightly harder puzzle](the-incredible-machine-2-hard-puzzle.png)
 
 As a child, building Rube Goldberg machines are a hard thing to do, you're usually limited to certain objects you're "allowed" to use (I know what I'm doing, mom!) and playing this really scratched that itch. Complex mechanics working together to achieve a desired result. I'm interested if there are any modern games with the same feel as this that are worth trying...

@@ -22,7 +22,7 @@ Anyway, in Chants of Sennaar you're a nameless speechless character where everyb
 
 All characters talk to each other using unique glyphs. Where each glyph equals a word. You collect all these glyphs in a small compendium. Whenever you have investigated enough points of interest in the game, the book unlocks a new page with a couple of drawings, where you have to couple them with the correct glyphs. If all glyphs are correct for the current page the meaning of the glyphs is permanently unlocked and is visible as translation when talking to the different inhabitants of the tower.
 
-![Book with glyphs](/img/blog/2024/11/chants-of-sennaar/chants-of-sennaar-book.png)
+![Book with glyphs](chants-of-sennaar-book.png)
 
 Before unlocking the glyphs, you have the option to assign a word to a glyph with your keyboard. Which makes it easy to keep track of assumptions and guesses. Some glyphs were bang on the money immediately and didn't pose much of a challenge. Others I was way off for a while. I think I had the most trouble when entering the third level of the tower. I was bombarded by a whole set of new glyphs and it took me the most time to translate the glyphs and find their meaning.
 
@@ -34,7 +34,7 @@ Learning each language in isolation was pretty fun, and fairly straight forward.
 
 What wasn't fun was the stealth gameplay sprinkled in. There are a couple of segments in the game where you can't be seen by the inhabitants and you have to stealth your way to the next screen. It felt out of place in an otherwise very enjoyable game. I'm sure this is a personal thing, it wasn't particularly hard, but I still dreaded these segments. I guess they're just not my cup of tea. I am thankful to the devs for providing many savepoints throughout the stealth segments. I would have been a very frustrated camper if I had to restart every stealth segment.
 
-![Stealth segment](/img/blog/2024/11/chants-of-sennaar/chants-of-sennaar-stealth.png)
+![Stealth segment](chants-of-sennaar-stealth.png)
 
 A bit further into the game, you had a chase scene with another AI-driven character. I really liked that, there were clear "rules" to the chase. Lighted areas couldn't be entered and you had to work your way through without it reaching you. There was a bit of stealth here too, but due to the clear restrictions it felt more like a puzzle traversing the screen. Instead of just waiting for patrolling guards to turn their backs and moving at the right time. The latter providing no real challenge, just a tedious waiting game.
 

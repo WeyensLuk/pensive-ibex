@@ -2,7 +2,7 @@
 title = 'About'
 +++
 
-![It's me!](/img/LukWeyens.JPG#floatright)
+![It's me!](/LukWeyens.JPG#floatright)
 
 Hi there, I'm [Luk Weyens](). 
 

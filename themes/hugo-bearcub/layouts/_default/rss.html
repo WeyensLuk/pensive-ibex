@@ -1,0 +1,14 @@
+{{- define "main" }}
+    {{- with .Title }}
+    <h1>{{ . }}</h1>
+    {{- end }}
+    <div class="content">
+      {{- with .Content }}{{ . }}{{- end }} 
+      <ul>
+        {{- range .Site.Sections }}
+        {{- $rss := .OutputFormats.Get "rss" }}
+        <li><a href="{{ $rss.Permalink }}">{{ replace .Title "-" " " }}</a></li>
+        {{- end }}
+      </ul>
+    </div>
+{{- end }}

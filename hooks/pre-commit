@@ -1,6 +1,6 @@
 #!/bin/sh
 
-staged_images=$(git diff --staged --name-only --diff-filter=ACM | grep -E '\.(png|jpg|jpeg|gif|bmp)$')
+staged_images=$(git diff --staged --name-only --diff-filter=ACM | grep -E '\.(png|jpg|jpeg|bmp)$')
 
 if [[ -z "$staged_images" ]]; then
   exit 0

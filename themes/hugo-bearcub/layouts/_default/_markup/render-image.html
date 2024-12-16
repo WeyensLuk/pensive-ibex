@@ -7,6 +7,9 @@
 
 	{{ $thumbUrl := $url }}
 	{{ $thumb := resources.Get $url }}
+	{{- if eq $thumb nil }}
+		{{- errorf "Could not find image %s" $url }}
+	{{- end }}
 	{{ if not (hasSuffix $url "svg") }}
 		{{- $thumbUrl = ($thumb.Resize "600x").RelPermalink }}
 	{{ else }}

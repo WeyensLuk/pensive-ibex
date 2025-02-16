@@ -42,5 +42,5 @@ The game has a lot going for it. If you like Indy, or you like exploring in game
 
 {{< prosandcons
     pros="Rewards for exploration fits the archaeological theme|It's Indy!|Puzzles of varying difficulty"
-    cons="Stealth segments|Guessing solutions takes away part of the gratification"
+    cons="Storyline is akin to a WYSIWYG tool"
 >}}
